@@ -1,0 +1,37 @@
+.header{
+border: 1px solid black;
+height: 183px;
+background-color: #eaeaea;
+width: 100%;
+align-items: center;
+}
+.body{
+max-width: 1980px;
+}
+.symbol{
+width: 183px;
+height: 183px;   
+border: 1px solid black;
+}
+  
+.karsava{
+font-style: normal;
+font-size: 24px;
+}
+
+.gerb{
+width: 75px;
+height: 98px;
+margin: auto;
+}
+
+.themebox{
+width: 183px;
+height: 183px;   
+border: 1px solid black;
+}
+
+.headerwrap{
+display: flex;
+align-items: center;
+}
